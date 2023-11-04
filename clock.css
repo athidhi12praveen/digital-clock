@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;  
+    font-family: 'Electrolize', sans-serif;
 }
 
 .container{
@@ -18,15 +19,15 @@
     color: black;
     background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
     font-weight: 600;
-    width: 650px;
-    height: 120px;
+    width: 700px;
+    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 100px;
     box-shadow: 0 20px 35px linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
     border-radius: 14px;
-    font-family: 'Orbitron', "sans-serif";
+    font-family: 'Electrolize', sans-serif;
 }
 
 @media(max-width:600px){
